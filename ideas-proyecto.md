@@ -1,11 +1,10 @@
 # Tres ideas de proyecto
 
-> Instrucción: sustituye lo que está entre corchetes y borra las líneas que empiezan con
-> "Instrucción:". Las tres ideas son tuyas, no las de tu equipo. En la siguiente sesión el
-> equipo decidirá con cuál se queda.
 
-**Autor:** [Tu nombre]
-**Fecha:** [ ]
+# Tres ideas de proyecto
+
+**Autor:** [José Alejandro Aguirre Palacios ]
+**Fecha:** [18/09/2026 ]
 
 ---
 
@@ -20,65 +19,61 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 
 ---
 
-## Idea 1: [Nombre de la idea]
+## Idea 1: [Luz automática para bicicleta]
 
-**Problema.** [Dos o tres líneas. Qué está mal hoy, sin solución todavía.]
+**Problema.** [La luces de las bicis, se tienen que poner manualmente y esto puede ocasionar un accidente si lo activas manualmente y vas en movimiento]
 
-**A quién le pasa.** [Quién sufre el problema, de la forma más específica posible.]
+**A quién le pasa.** [a mi, a mi roomie, a otros ciclistas.]
 
-**Dónde lo he visto.** [Lugar y situación concretos que tú viste, no algo que leíste. Esta
-sección es obligatoria y no se puede resolver con una búsqueda.]
+**Dónde lo he visto.** [Lo he visto cuando salgo tarde de la escuela hay veces que los carro no te alcanzan a ver porque no tienes luces y a veces hay accidentes.]
 
 **Cómo funcionaría.**
-- Qué mide o detecta (sensor): [ ]
-- Qué hace con eso (actuador, aviso, pantalla): [ ]
-- Qué pieza habría que fabricar: [ ]
+- Qué mide o detecta (sensor): [un sensor que detecte cuando la luz solar se acaba, y empieza la luz lunar que se encienda ]
+- Qué hace con eso (actuador, aviso, pantalla): [encender las luces LED ]
+- Qué pieza habría que fabricar: [Una luz inteligente con sensores y su soporte para ponerse en la bicicleta  con impresión 3D]
 
 ---
 
-## Idea 2: [Nombre de la idea]
+## Idea 2: [Detector de lluvia para ventanas]
 
-**Problema.** [ ]
+**Problema.** [ Luego cuando esperas que no va a llover, de la nada empieza a llover y dejaste las ventanas abiertas y se te mojan varias cosas o se te mete el agua ]
 
-**A quién le pasa.** [ ]
+**A quién le pasa.** [ A mi me ha pasado de dejar la ventana y que se moje mi sillón o diferentes cosas, o a la gente olvidadiza ]
 
-**Dónde lo he visto.** [ ]
+**Dónde lo he visto.** [En mi casa o cuando voy a reuniones, fiestas, o en restaurantes  ]
 
 **Cómo funcionaría.**
-- Qué mide o detecta (sensor): [ ]
-- Qué hace con eso (actuador, aviso, pantalla): [ ]
-- Qué pieza habría que fabricar: [ ]
+- Qué mide o detecta (sensor): [ que detectar el movimiento de las gotas cayendo en el espacio abierto de la ventana  ]
+- Qué hace con eso (actuador, aviso, pantalla): [ cerrar las ventanas ]
+- Qué pieza habría que fabricar: [ hacer el sensor y todo el mecanismo de movimiento de la ventana para cerrarse  con impresión 3D]
 
 ---
 
-## Idea 3: [Nombre de la idea]
+## Idea 3: [Maceta que te se riega sola]
 
-**Problema.** [ ]
+**Problema.** [ Se me olvida regar las plantas durante días y se empiezan a secar alas hojitas de la planta ]
 
-**A quién le pasa.** [ ]
+**A quién le pasa.** [ a mi. y a las personas olvidadizas  ]
 
-**Dónde lo he visto.** [ ]
+**Dónde lo he visto.** [ en mi departamento, y en lugares calurosos]
 
 **Cómo funcionaría.**
-- Qué mide o detecta (sensor): [ ]
-- Qué hace con eso (actuador, aviso, pantalla): [ ]
-- Qué pieza habría que fabricar: [ ]
+- Qué mide o detecta (sensor): [Un sensor conectado a un reloj  ]
+- Qué hace con eso (actuador, aviso, pantalla): [ Regar las plantas cada cierto tiempo]
+- Qué pieza habría que fabricar: [el sensor y el mecanismo de riego  ]
 
 ---
 
 ## Tabla de viabilidad
 
-> Instrucción: escribe Sí, No o Parcial en cada celda. Una idea con un "No" no está
-> descalificada: lo que se evalúa es que reconozcas el problema, no que las tres ideas
-> salgan perfectas.
 
-| Criterio | Idea 1 | Idea 2 | Idea 3 |
-|---|---|---|---|
-| Problema concreto de mi entorno | | | |
-| Parte física fabricable | | | |
-| Sensor o actuador | | | |
-| Construible en ocho sesiones por principiantes | | | |
-| Qué tan seguro estoy de lo anterior (alto / medio / bajo) | | | |
+| Criterio                                                  | Idea 1  | Idea 2  | Idea 3  |
+| --------------------------------------------------------- | ------- | ------- | ------- |
+| Problema concreto de mi entorno                           | SI      | SI      | SI      |
+| Parte física fabricable                                   | SI      | Parcial | SI      |
+| Sensor o actuador                                         | Parcial | Parcial | SI      |
+| Construible en ocho sesiones por principiantes            | SI      | Parcial | parcial |
+| Qué tan seguro estoy de lo anterior (alto / medio / bajo) | medio   | Medio   | Medio   |
 
 ## Mi elección
 
@@ -93,6 +88,6 @@ Esta sección vale: reconocer la incertidumbre es parte del trabajo de ingenier�
 
 ## Declaración de uso de IA
 
-- **Herramienta utilizada:** [nombre y versión, o "No se utilizó IA generativa en esta entrega"]
-- **Qué le pedí:** [ ]
-- **Qué modifiqué o rechacé de su respuesta, y por qué:** [ ]
+- **Herramienta utilizada:** [ChatGPT, GPT-5.6 sol ]
+- **Qué le pedí:** [Saber que es un actuador y ayuda sobre soluciones sobre problemas  ]
+- **Qué modifiqué o rechacé de su respuesta, y por qué:** [ modifique varias cosas de las soluciones porque eran medio complicadas y raras]
