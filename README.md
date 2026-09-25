@@ -40,6 +40,6 @@
 
 ## Declaración de uso de IA
 
-- **Herramienta utilizada:** [No se utilizó IA generativa en esta entrega]
-- **Qué le pedí:** [ ]
-- **Qué modifiqué o rechacé de su respuesta, y por qué:** [ ]
+- **Herramienta utilizada:** [ChatGPT, GPT-5.6 sol]
+- **Qué le pedí:** [le pedi ideas de solucines para los prblemas]
+- **Qué modifiqué o rechacé de su respuesta, y por qué:** [ rechace soluciones y propuestas de chat]
